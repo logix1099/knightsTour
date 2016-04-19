@@ -1,0 +1,12 @@
+didn't get the time to figure out the knight tour program to completion. however i got it back to a running state so it can be seen when i made it to.
+where i made it to
+1)it correctly figures out the inital number of move each postion has
+2)the knight move from one place to another as a proper knights move
+3) it decreases the number of moves as the knight moves
+
+problems
+1)it travels back to visited squares
+
+not done stuff
+1)no tie breaking implemented.
+
